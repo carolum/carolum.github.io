@@ -1,0 +1,22 @@
+header {
+    height: auto;
+    z-index: 999;
+}
+
+.ora, .Typewriter__cursor {
+    color: #F88379;
+}
+
+.bigboi{
+	padding: 20px;
+}
+
+.bigboi hr{
+	display: block;
+	height: 1px;
+	width: 30%;
+    border: 0;
+	border-top: 15px solid #f88379;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
